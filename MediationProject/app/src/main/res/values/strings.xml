@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediationProject</string>
+    <string name="activ_button_text">Войти в аккаунт</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="welcom_back_text">С возвращением,</string>
+    <string name="welcom_text">Каким ты сеья ощущаешь сегодня?</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
